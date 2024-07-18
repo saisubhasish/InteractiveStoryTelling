@@ -2,6 +2,7 @@
 # Interactive Storytelling Platform
 
 Flow diagram
+![Screenshot 2024-07-18 183930](https://github.com/user-attachments/assets/cd377e0b-4c7c-4b47-b5b1-b85b456e0215)
 
 
 Welcome to the Interactive Storytelling Platform! This project leverages FastAPI and Streamlit to create an engaging AI-driven storytelling experience. Users can interact with the AI to generate and develop stories dynamically.
